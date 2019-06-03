@@ -59,6 +59,14 @@
 - 收藏： 收藏游记或搜索结果中的方案碎片、管理碎片、根据收藏的方案碎片进行预算计算
 - 社区：浏览最新最热游记
 
+## 架构图
+![架构图](./src/client/assets/architecture diagram.png)
+
+## 用例图
+![用例图](./src/client/assets/Use Case Diagram.jpg)
+
+## 数据流图
+![数据流图](./src/client/assets/data flow diagram.jpg)
 
 ## 产品展示视频链接（！！！！！！！！！！）
 [出发功能展示](https://v.youku.com/v_show/id_XNDE4MDY0NjQ4OA==.html?x=&sharefrom=android&sharekey=c2184bbc0fdfd336cfbd28d4cd8bd8764)
