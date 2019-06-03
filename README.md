@@ -81,6 +81,7 @@
 ### 前端
 - Vue.js
 - Vue-router
+- Vuex
 - Axios
 - Onsen-UI
 
