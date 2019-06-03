@@ -7,6 +7,8 @@
 
 </div>
 
+> LOGO元素为两只海鸥，寓意着自由，约上好友即刻出门飞向远方。
+
 ## 市场分析
 - 随着旅游业的发展，目前市场上有众多旅游APP,如马蜂窝、途牛、去哪儿等等。它们具备预定酒店、机票、车票、景点门票等功能，给用户带来诸多便利；
 - 大多数的旅游类APP，只有社区讨论分享，攻略分散零碎，内容缺少统一的合理整合(旅游类APP痛点)；
@@ -60,13 +62,16 @@
 - 社区：浏览最新最热游记
 
 ## 架构图
-![架构图](./src/client/assets/architecture diagram.png)
+
+![架构图](./src/client/assets/architecture_diagram.png)
 
 ## 用例图
-![用例图](./src/client/assets/Use Case Diagram.jpg)
+
+![用例图](./src/client/assets/Use_Case_Diagram.jpg)
 
 ## 数据流图
-![数据流图](./src/client/assets/data flow diagram.jpg)
+
+![数据流图](./src/client/assets/data_flow_diagram.jpg)
 
 ## 产品展示视频链接（！！！！！！！！！！）
 [出发功能展示](https://v.youku.com/v_show/id_XNDE4MDY0NjQ4OA==.html?x=&sharefrom=android&sharekey=c2184bbc0fdfd336cfbd28d4cd8bd8764)
