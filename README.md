@@ -76,7 +76,7 @@
 ![数据流图](./src/client/assets/data_flow_diagram.jpg)
 
 ## 产品展示视频链接（！！！！！！！！！！）
-[出发功能展示](https://v.youku.com/v_show/id_XNDE4MDY0NjQ4OA==.html?x=&sharefrom=android&sharekey=c2184bbc0fdfd336cfbd28d4cd8bd8764)
+[出发功能展示](https://www.bilibili.com/video/av54446899)
 
 ## 技术栈
 
